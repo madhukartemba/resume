@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Resume
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This resume was created using ReactJS for the frontend and PHP with MySQL as the backend.
 
 ## Available Scripts
 
