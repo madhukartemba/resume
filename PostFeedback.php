@@ -1,8 +1,8 @@
 <?php
 $sname = "localhost";
-$uname = "id18948204_madhukartemba";
-$pass = "xH<S@92Qk+Nu>[7G";
-$dbname = "id18948204_sitecomments";
+$uname = "";
+$pass = "";
+$dbname = "";
 
 $rating = $_POST["rating"];
 $email = $_POST["email"];
