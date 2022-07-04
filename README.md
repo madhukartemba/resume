@@ -1,11 +1,20 @@
 # My Resume
-
-This resume was created using ReactJS for the frontend and PHP with MySQL as the backend.
+This is my personal portfolio website which has haptic feedback and live background using the phone's gryoscope. It uses ReactJS as the frontend and PHP with MySQL as the backend.
 <br>
 This project is hosted on the internet!
 <br>
 Please visit this link to view my website: https://www.madhukartemba.com/
+<br>
 
+![Screenshot from 2022-07-04 18-52-19](https://user-images.githubusercontent.com/97425422/177163791-e1cb358e-7c48-4d9a-9be4-390b52e5caf9.png)
+![Screenshot from 2022-07-04 18-52-25](https://user-images.githubusercontent.com/97425422/177163801-7b79bb40-f482-47e9-9fac-cca7c5db7f28.png)
+![Screenshot from 2022-07-04 18-52-30](https://user-images.githubusercontent.com/97425422/177163812-7d8e1472-fa77-40a7-bf91-3ccb82c60057.png)
+![Screenshot from 2022-07-04 18-52-34](https://user-images.githubusercontent.com/97425422/177163817-d7434ee7-0cd6-42a0-b92b-3cb0c25ebf38.png)
+![Screenshot from 2022-07-04 18-52-41](https://user-images.githubusercontent.com/97425422/177163820-86404440-eaeb-4cfb-921a-7918e9304e41.png)
+![Screenshot from 2022-07-04 18-52-50](https://user-images.githubusercontent.com/97425422/177163830-da1f9ebd-d1b2-45fa-8c2a-a63cdc22403a.png)
+![Screenshot from 2022-07-04 18-52-57](https://user-images.githubusercontent.com/97425422/177163835-43403bef-1b37-47d4-8246-821ea68536e1.png)
+![Screenshot from 2022-07-04 18-54-58](https://user-images.githubusercontent.com/97425422/177164086-80be8034-0940-40d7-a6df-6c9115227c92.png)
+![Screenshot from 2022-07-04 18-55-08](https://user-images.githubusercontent.com/97425422/177164099-3a61c535-d6ab-4b9c-9a6c-e3bde913ecf6.png)
 
 ## Available Scripts
 
