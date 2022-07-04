@@ -1,6 +1,11 @@
 # My Resume
 
 This resume was created using ReactJS for the frontend and PHP with MySQL as the backend.
+<br>
+This project is hosted on the internet!
+<br>
+Please visit this link to view my website: https://www.madhukartemba.com/
+
 
 ## Available Scripts
 
